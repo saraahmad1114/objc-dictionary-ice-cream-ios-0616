@@ -12,5 +12,8 @@
  
  */
 
+-(NSArray*) namesForIceCream: (NSString*)iceCream;
+-(NSDictionary*)countsOfIceCream: (NSDictionary*)iceCreamByName;
+
 @end
 
